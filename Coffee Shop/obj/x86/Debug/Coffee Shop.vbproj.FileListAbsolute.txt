@@ -1,0 +1,9 @@
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.xml
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\obj\x86\Debug\Coffee_Shop.Form1.resources
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\obj\x86\Debug\Coffee_Shop.Resources.resources
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\obj\x86\Debug\Coffee Shop.vbproj.GenerateResource.Cache
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\obj\x86\Debug\Coffee Shop.exe
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\obj\x86\Debug\Coffee Shop.xml
+c:\users\tech age\documents\visual studio 2010\Projects\Coffee Shop\Coffee Shop\obj\x86\Debug\Coffee Shop.pdb
